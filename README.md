@@ -9,5 +9,5 @@ Logging: Writes captured keystrokes to a file named logs.txt.
 
 Exit on Esc Key: Stops the keylogger when the Esc key is pressed.
 
-#Requirements
+# Requirements
 Python 3.x pynput library
